@@ -38,4 +38,4 @@ I have worked on marketplace, SaaS, healthcare and product platforms, with exper
 - Product collaboration and backlog refinement
 
 📍 Bordeaux, France  
-🔗 LinkedIn: [your LinkedIn link]
+🔗 LinkedIn: [Grégoire Renaldo](https://www.linkedin.com/in/gregoire-renaldo-440b791b)

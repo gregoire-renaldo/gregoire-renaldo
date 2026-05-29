@@ -18,6 +18,14 @@ I enjoy building product-oriented applications with clean APIs, maintainable cod
 3D knowledge graph built with Next.js, React, TypeScript, Three.js, React Three Fiber, Prisma and PostgreSQL.  
 Includes a Wikidata SPARQL ingestion pipeline and interactive graph visualization.
 
+production demo: https://philosophical-galaxy.vercel.app/
+
+### CoverGrid
+Visual Spotify companion app built with Vue 3, Vite and the Spotify Web API / Web Playback SDK, designed around a cover-first browsing experience.  
+Includes personal playlist browsing, public playlist discovery, persistent playback controls and playlist poster generation and sharing
+
+production demo: https://mosaic-covers.vercel.app/
+
 ### Learn Chess Openings
 React / TypeScript training app to study chess openings move by move.  
 Includes study mode, training mode, move validation, hints, local progress tracking and chessboard interaction.

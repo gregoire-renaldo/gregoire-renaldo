@@ -32,6 +32,7 @@ Includes study mode, training mode, move validation, hints, local progress track
 
 ### Filou Landing
 Landing page for Filou, a mobile app helping professionals generate quotes using voice input.
+https://gregoire-renaldo.github.io/filou_landing/
 
 ## Professional background
 

@@ -26,13 +26,19 @@ Includes personal playlist browsing, public playlist discovery, persistent playb
 
 production demo: https://mosaic-covers.vercel.app/
 
+### Dev-Context-memory-MCP
+It gives AI coding assistants a local, project-specific memory stored as Markdown files in .dev-context-memory/. The server exposes MCP tools to list, read, search, summarize, overwrite, and append structured project knowledge such as architecture decisions, API contracts, conventions, bugs, todos, and glossary terms.
+It is a lightweight, local-first memory layer for coding agents, using plain files instead of a database or vector store.
+
+### Filou – Mobile App
+Solo-developed Filou, a mobile app that helps professionals generate quotes using voice input. I designed and built the mobile application independently, from the initial concept to the core features, including voice-based quote creation and the landing page.
+
+The app is available on mobile app stores and can also be discovered through the landing page:
+https://gregoire-renaldo.github.io/filou_landing/
+
 ### Learn Chess Openings
 React / TypeScript training app to study chess openings move by move.  
 Includes study mode, training mode, move validation, hints, local progress tracking and chessboard interaction.
-
-### Filou Landing
-Landing page for Filou, a mobile app helping professionals generate quotes using voice input.
-https://gregoire-renaldo.github.io/filou_landing/
 
 ## Professional background
 
